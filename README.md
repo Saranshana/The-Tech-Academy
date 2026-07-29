@@ -1,2 +1,2 @@
-# -Academy-of-Learning-Projects
-This repository is for Academy of Learning Projects
+# -The-Tech-Academy-Projects
+This repository is for The Tech Academy
